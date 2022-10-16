@@ -27,11 +27,11 @@ extractor; verifiable secret sharing
 
 用于KE的密码算法：
 
-![image-20221014161008516](生物学密码.assets\image-20221014161008516.png)
+![image-20221014161008516](生物学密码.assets/image-20221014161008516.png)
 
 ##  信息传递
 
-![image-20221014154405550](生物学密码.assets\image-20221014154405550.png)
+![image-20221014154405550](生物学密码.assets/image-20221014154405550.png)
 
 社交消息应用以其便捷性成为日常交流的主流手段，这个图示2022年一月份全球最流行社交app排名，从中可以看出 whats app高居第一---等等。
 
@@ -41,7 +41,7 @@ extractor; verifiable secret sharing
 
  [关于 WhatsApp 端到端加密技术](https://faq.whatsapp.com/791574747982248/?helpref=uf_share)
 
-![image-20221014155503668](生物学密码.assets\image-20221014155503668.png)
+![image-20221014155503668](生物学密码.assets/image-20221014155503668.png)
 
 所以本论文的BAKE只能用在这些国外App上了，我们看  [关于 WhatsApp 端到端加密技术](https://faq.whatsapp.com/791574747982248/?helpref=uf_share)，其中对于加密技术的描述可以很显然的看出采用的是传统的公钥技术。
 
